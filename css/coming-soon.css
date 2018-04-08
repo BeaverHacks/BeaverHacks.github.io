@@ -185,6 +185,7 @@ body {
   color: black;
   background-color: white;
   border-color: gray;
+  margin-top: 15px;
 }
 
 .btn-link:hover, .btn-link:focus, .btn-link:active, .btn-link.active, .open>.dropdown-toggle.btn-link {
@@ -192,3 +193,10 @@ body {
     background-color: gray;
     border-color: gray; /*set the color you want here*/
 }
+
+#tag{
+  font-style: italic;
+  font-size: 15px;
+}
+
+
