@@ -185,7 +185,7 @@ body {
   color: black;
   background-color: white;
   border-color: gray;
-  margin-top: 15px;
+  margin-top: 12px;
 }
 
 .btn-link:hover, .btn-link:focus, .btn-link:active, .btn-link.active, .open>.dropdown-toggle.btn-link {
